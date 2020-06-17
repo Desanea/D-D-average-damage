@@ -43,3 +43,21 @@ if (20>15):
     print("Critical hit!")
 else:
     print("Normal hit")
+    
+    
+    Name: Waldorf
+Cleric Level 1
+Number of attacks 1. Proficiency bonus +2. STR score 18. STR modifier +4
+Base attack +6
+Weapon of choice: Mace. Damage: 1D6 Bludgeoning
+Simulate attack roll vs monster with AC 15:
+Roll of D20= 6+10=16
+Waldorf hits!
+New attack roll
+Roll of D20= 3+1
+Waldorf miss!
+New attack roll
+Roll of D20=20
+Critical hit!
+
+Process finished with exit code 0
